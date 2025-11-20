@@ -82,6 +82,7 @@ Where:
 ```
 sudo apt install -y \
   python3-pip \
+  python3.12-venv\
   tesseract-ocr \
   libtesseract-dev \
   poppler-utils \
