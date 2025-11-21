@@ -7,7 +7,7 @@ matching, and a live browser UI.
 All input/output paths use **generic placeholders** so anyone can configure
 their own directories (Linux, Mac, or Windows).
 
-Epstein Files -> https://drive.google.com/drive/folders/1hTNH5woIRio578onLGElkTWofUSWRoH_  
+Epstein Files -> [https://drive.google.com/drive/folders/1hTNH5woIRio578onLGElkTWofUSWRoH_](https://drive.google.com/drive/folders/1hTNH5woIRio578onLGElkTWofUSWRoH_)  
 ---
 
 ## Features
