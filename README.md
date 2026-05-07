@@ -4,6 +4,8 @@ This project scans large document archives and creates a searchable
 web interface. It supports OCR text extraction, face detection, keyword
 matching, and a live browser UI.
 
+Obviously, the code can be used to scan any large dataset
+
 All input/output paths use **generic placeholders** so anyone can configure
 their own directories (Linux, Mac, or Windows).
 
